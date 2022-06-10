@@ -1,4 +1,4 @@
-### Meu projeto de um banco realizado no Santander Bootcamp Mobile Developer
+### Projeto de banco realizado em Kotlin
 
  * Aprendendo sobre os fundamentos da linguagem Kotlin;
  * IDE: Intellij Community;
