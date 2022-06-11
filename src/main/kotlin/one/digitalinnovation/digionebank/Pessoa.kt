@@ -12,6 +12,5 @@ class Pessoa {
 
     fun main(){
         val wallace = Pessoa()
-
         println(wallace.pessoaInfo()) // Estou fazendo meu objeto Pessoa() chamar sua função pessoaInfo()
     }
